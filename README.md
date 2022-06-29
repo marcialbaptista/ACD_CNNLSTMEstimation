@@ -60,6 +60,7 @@ Python
 - [Pandas](https://pandas.pydata.org/): Data analysis tools.
 - [Scikit-learn](https://scikit-learn.org/stable/): Machine learning toolkit.
 - [MiniSom](https://pypi.org/project/MiniSom/): Minisom package. 
+- [Tensorflow](https://pypi.org/project/tensorflow/): Tensorflow with or without GPU Support (faster)
 
 #### Note
 
