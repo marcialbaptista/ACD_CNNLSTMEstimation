@@ -1,4 +1,4 @@
-![Prognostics - Operating Regime Detection](https://github.com/marcialbaptista/ACD_CNNLSTMEstimation/blob/master/icon.png?raw=true)
+![Prognostics - Operating Regime Detection](https://github.com/marcialbaptista/ACD_CNNLSTMEstimation/blob/main/icon.png?raw=true)
 
 ## Remaining Useful Life (RUL) Estimation based on Random Forest and CNN-LSTM 
 
